@@ -1,0 +1,1 @@
+This folder contains projects written in Qt's QML declarative language.
